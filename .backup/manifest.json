@@ -1,0 +1,123 @@
+{
+  "type": "safe-project-backup",
+  "date": "2026-10-05T16:25:59.813Z",
+  "sourceHead": "a9b1817206ccd2196b3fd8f0e6a09431a7f62afb",
+  "sourceBranch": "master",
+  "sourceStableAt": "2026-10-05T16:25:59.993Z",
+  "files": [
+    {
+      "path": "00-mandato.md",
+      "size": 2452,
+      "sha256": "1cf2bdaa83fcff55fb9d659ff926bb98a665823b59b9bb791c340e8f80fa7027",
+      "untracked": false
+    },
+    {
+      "path": "01-hablar.md",
+      "size": 1828,
+      "sha256": "45a75261223904b4cb6d8b859b9558f17215fba0510d208374fd711f1c19f83e",
+      "untracked": false
+    },
+    {
+      "path": "02-verificar.md",
+      "size": 2367,
+      "sha256": "91b662d70fa460b11f29b1e7871e701b1f8ef7965d260fb407d289d2c3b383f3",
+      "untracked": false
+    },
+    {
+      "path": "03-cerrar.md",
+      "size": 2090,
+      "sha256": "04f0635c11b3f63798577ef3d7ddf6bd60b88aacf06e92380ab737ce04244ded",
+      "untracked": false
+    },
+    {
+      "path": "04-entorno.md",
+      "size": 1616,
+      "sha256": "1c5dd488a45562642c0406a2de2bea65ee50a3bd13d99cbed78e05caab69799b",
+      "untracked": false
+    },
+    {
+      "path": "05-limites.md",
+      "size": 1521,
+      "sha256": "c28db7b95152aef388dc8dad110d582e56f72fc197df1cc409b4852efdd5a298",
+      "untracked": false
+    },
+    {
+      "path": "MANDATO.md",
+      "size": 2293,
+      "sha256": "485d9417fc64c48330fc882bb29f3ae17ee3d7f949b6f171e5088b29453c161d",
+      "untracked": false
+    },
+    {
+      "path": "README.md",
+      "size": 3659,
+      "sha256": "9757366ea5b3fcaa327bec55c55ee4dd797cb893d71f04e609eae554b10e8018",
+      "untracked": false
+    },
+    {
+      "path": "inject-mandato.mjs",
+      "size": 1850,
+      "sha256": "31998c66d2a20b64c5dd83b189329c422f44e3d587bc05f2dcf92c79b3f71215",
+      "untracked": false
+    },
+    {
+      "path": ".claude/settings.json",
+      "size": 605,
+      "sha256": "f8b5ed58b079ce8b3ea574630b428b153f8209ffa2cb11732c9c80d21ec2ae10",
+      "untracked": true
+    },
+    {
+      "path": ".gitignore",
+      "size": 97,
+      "sha256": "22e67f4aa40adeb433ab36f49727cd3ea96b5595f4a94e2286e8750b59b90fa8",
+      "untracked": true
+    },
+    {
+      "path": "INSTALACION.md",
+      "size": 3948,
+      "sha256": "1aecfe39fa3094eb6eeab77db699ad337a60866ab3379f9e9e0f881378ca2376",
+      "untracked": true
+    },
+    {
+      "path": "candado-selftest.mjs",
+      "size": 3841,
+      "sha256": "2d5d9c4a7a24530cdbbc4fdad8c406af203ffcb9bb2d41cd7b924310377c2513",
+      "untracked": true
+    },
+    {
+      "path": "plantillas/PROYECTO.md",
+      "size": 1024,
+      "sha256": "be5159d010f6891de037359a131eeb9152dd11329bba102e4cd3fdd8838d7bfb",
+      "untracked": true
+    },
+    {
+      "path": "scripts/evaluar.mjs",
+      "size": 4381,
+      "sha256": "709dcbf5c0a920e9bdff06a50932527c1652902efa1c5707ecd9d35dece79e8a",
+      "untracked": true
+    },
+    {
+      "path": "scripts/evaluar.test.mjs",
+      "size": 2397,
+      "sha256": "862614935b76a2dc1b499c9f7a2843a10e8d29b2413b2994df1080d655acb73c",
+      "untracked": true
+    },
+    {
+      "path": "scripts/instalar.mjs",
+      "size": 6625,
+      "sha256": "cff043ea7f3c020cad71ad9a690b00d2eef01d3029a775294b67692c506fecfc",
+      "untracked": true
+    },
+    {
+      "path": "scripts/instalar.test.mjs",
+      "size": 4142,
+      "sha256": "dfe9f5d8f7e404a8a9c7343ece4c0047c783c73fe487856e02bbe006a54ee894",
+      "untracked": true
+    }
+  ],
+  "excludedCategories": [
+    "profile evaluation content"
+  ],
+  "history": "Independent snapshot; original history not copied. Existing commits checked against GitHub separately.",
+  "ignoredFiles": "Not copied. Secrets, databases, personal/operational data, caches and output evidence remain local.",
+  "workflows": "Omitted to prevent Actions from deploying this backup."
+}

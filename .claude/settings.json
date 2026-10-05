@@ -1,0 +1,27 @@
+{
+  "$comment": "Integración local: entrega el núcleo canónico y comprueba su carga. Las rutas corresponden a esta máquina.",
+  "hooks": {
+    "UserPromptSubmit": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "node \"C:/dev/doctrina/inject-mandato.mjs\"",
+            "timeout": 10
+          }
+        ]
+      }
+    ],
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "node \"C:/dev/doctrina/candado-selftest.mjs\"",
+            "timeout": 15
+          }
+        ]
+      }
+    ]
+  }
+}
